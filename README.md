@@ -5,6 +5,8 @@ In the past few weeks, I have been attending the Exploring Digital Technology cl
 
 
 date- 21 January 2025
+
+
 This week in our tech class, we delved into the fascinating world of binary numbers and their crucial role in modern computing, especially in the context of quantum computing and the architecture of our current machines. Our discussions primarily centered around the fundamental "base-2" system. As we learned, at the heart of all software operations lie the binary digits, 0 and 1. These seemingly simple digits are the building blocks of all the data and instructions that our computers process. We often encounter these bits in groups. Anuradha ma'am provided us with a foundational understanding of how hardware utilizes the binary system to execute software.
 Once the address is identified, the data bus comes into play. This bus is responsible for transferring the actual content – the data or the instructions represented in binary form – between the memory and the CPU. So, while the address bus points to where the information is, the data bus carries what the information is. Furthermore, we discussed the role of control signals and transistors within the hardware. Control gates within these transistors regulate the flow of electrical current. When a control signal is applied (again, represented by binary values), it can open or close these gates, allowing or blocking the passage of electrical signals that represent the binary data.
 
