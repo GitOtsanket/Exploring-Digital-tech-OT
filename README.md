@@ -21,3 +21,16 @@ We discovered that after manufacturing, PROM (Programmable Read-Only Memory) can
 We came to the conclusion during our presentation and discussion that these memory types are significant milestones in the creation of contemporary non-volatile memory technologies, not merely historical details. Even though flash memory has mostly supplanted them in recent years, knowing their composition and behavior helped us better understand how hardware choices affect computer systems' functionality and performance.
 
 We also gained a better understanding of the trade-offs engineers must make when designing memory, including those between cost, speed, flexibility, and permanence. Particularly useful in relating the technical details to actual computer design was the reading from Hamacher's chapter on memory. Overall, this experience was helpful in understanding ROM types as well as the basic role that memory architecture plays in computer operation
+
+
+
+
+
+
+in the month of april:
+Date: 1 april 2025
+
+On 1st April 2025, we had a very important class where Anuradha Ma’am introduced us to Git and its setup. She guided us through the process of installing Git on our systems and explained the basics of using tools like GitK and Git Doc. Under her instructions, we learned several essential commands used in Git and the Bash terminal, including $, rm, and rm -rf. Anuradha Ma’am also showed us how to create new files inside Git Bash, which helped us understand how files are managed within a Git project.
+
+She then provided us with an outline of Linux's development and history, describing how it had grown to be such a potent operating system over time. She also talked about how Linus Torvalds, the man behind Linux, developed Git, which attained a market share of roughly 85% worldwide for version control systems.
+Later, Anuradha Ma’am taught us how to connect a GitHub repository with WSL (Windows Subsystem for Linux) and also how to work with GitHub itself. She carefully explained how to take a repository from GitHub and make it local on our computer so that we could work with it directly. After this session, in the following week, she gave us practical work where we had to practice cloning Git repositories to our local machines. Throughout the sessions, Anuradha Ma’am made sure that everyone understood the concepts clearly, combining theory with hands-on practice. Overall, her teaching style made the entire process much easier to understand and apply in real-time projects.
