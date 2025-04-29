@@ -23,6 +23,18 @@ We came to the conclusion during our presentation and discussion that these memo
 We also gained a better understanding of the trade-offs engineers must make when designing memory, including those between cost, speed, flexibility, and permanence. Particularly useful in relating the technical details to actual computer design was the reading from Hamacher's chapter on memory. Overall, this experience was helpful in understanding ROM types as well as the basic role that memory architecture plays in computer operation
 
 
+in march 
+On 4th March 2025, Anuradha Ma’am conducted a class that focused on the basics of BIOS and the process of downloading and using the Linux operating system.She started out by defining BIOS (Basic Input/Output System) and describing how it serves as the firmware interface between the operating system and computer hardware. the she carefully demonstrated how to access the BIOS settings on our own computers and stressed the significance of doing so for setting up system-level operations, particularly when installing new operating systems. then she started explaining about linux, she described how Linux is an open-source operating system and how its control and flexibility are different from Windows'. Then she showed us how to download a Linux distribution, like Ubuntu, and showed us how to make a bootable USB so we could install Linux on our computers. Our understanding of how to use Linux in a virtual machine or dual boot it with Windows improved thanks to her detailed instructions. then Ma'am highlighted the broad usage of Linux in programming and development environments as well as the benefits of learning it for our technical advancement. A seemingly complicated subject became much more approachable and simple to understand thanks to her explanation.
+
+
+
+
+
+
+
+
+
+
 
 
 
